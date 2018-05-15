@@ -1,0 +1,117 @@
+{
+  "project_info": {
+    "project_number": "45309972064",
+    "firebase_url": "https://take-photo.firebaseio.com",
+    "project_id": "take-photo",
+    "storage_bucket": "take-photo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45309972064:android:b83210beafeeba53",
+        "android_client_info": {
+          "package_name": "com.example.android.downloadimagefromfb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45309972064-80fncdk9n16b9c497dcv0278k9nvqj3c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoqwIpb9HEdEr-UcJmM4kpboe0fcuLMN8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45309972064:android:88171f9a57a354ed",
+        "android_client_info": {
+          "package_name": "com.example.android.takephotoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45309972064-a5i2rgt6rok6b3u5t9i9l6bgqt27ehcs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.takephotoapp",
+            "certificate_hash": "1313a60258cfd693c29eb8f9e5580dee95ef0722"
+          }
+        },
+        {
+          "client_id": "45309972064-80fncdk9n16b9c497dcv0278k9nvqj3c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoqwIpb9HEdEr-UcJmM4kpboe0fcuLMN8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45309972064-80fncdk9n16b9c497dcv0278k9nvqj3c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45309972064:android:6996af72eddd50c3",
+        "android_client_info": {
+          "package_name": "com.example.android.uploadimage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45309972064-80fncdk9n16b9c497dcv0278k9nvqj3c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoqwIpb9HEdEr-UcJmM4kpboe0fcuLMN8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
